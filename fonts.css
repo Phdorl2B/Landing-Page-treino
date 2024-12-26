@@ -1,0 +1,28 @@
+@font-face {
+    font-family:'audex';
+    src: url('./fonts/Audex-Regular.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family:'rabbit';
+    src: url('./fonts/Home Rabbit.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:'stand';
+    src: url('./fonts/Stand Straight.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:'bebas';
+    src: url('./fonts/BebasNeue-Regular.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
